@@ -36,3 +36,8 @@ footer {
 .card {
     margin-bottom: 20px;
 }
+
+.card-title {
+    padding-top: 0px;
+    font-size: 28px;
+}
