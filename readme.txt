@@ -10,45 +10,51 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+10/10
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
+
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
-
+- Banner image on homepage with alt text
+- Headings and paragraph text on homepage for skills and on projects page
+- Multiple pages (home, resume, projects) with navigation bar
+- Several semantic tags for navigation, sections, articles, and a footer
 
 (b) CSS features
-
-
+- Custom padding and margins
+- Custom font colors
+- Custom font "Noto Sans" with two fallbacks
 
 (c) Advanced features
-
-
+- Navigation bar
+- (Placeholder) videos on project page with static image fallback
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+No; I did not receive any warnings or errors.
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+About 8 hours
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+For HTML tag functionality, I refered to W3Schools (https://www.w3schools.com/html/default.asp).
+For CSS, I mostly relied on the class lecture slides, along with basic Google queries for specific syntax.
+For Bootstrap, I heavily relied on the official documentation (https://getbootstrap.com/docs/5.3/getting-started/introduction/).
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I did this project indepedently.
 
 
 7. Is there anything special we need to know in order to run your code?
-
+No; all necessary files should be included in the repository.
